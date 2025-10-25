@@ -1,3 +1,5 @@
+/* Ini Reactbits Stepper */
+
 import React, { useState, Children, useRef, useLayoutEffect } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 
